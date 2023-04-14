@@ -1,0 +1,15 @@
+.todo-eso{
+    background: #3c3c3c;
+ }
+.cabeza-articulo{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 225, 255);
+}
+.parrafo{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #3c3c3c; 
+}
